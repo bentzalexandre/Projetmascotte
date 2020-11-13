@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 44" width="44" height="44">
+	<defs>
+		<image width="44" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAAXNSR0IB2cksfwAAAGxQTFRFAAAA6enp8vLy9PT08/Pz8PDw7Ozs7e3t5+fn4+Pj5ubm/////v7++Pj48fHx/f39+/v7+vr6wMDA+fn5/Pz8////////9fX16Ojo6+vr7u7un5+f9/f3////////////////////////AAAAX2b2/QAAACR0Uk5TgP//////////////////////////ABT///////8nkISFWR//pitUiQAAAMhJREFUeJztkssOgjAQRUcBXzN4ix0E8YHK//+jo0iiu3FBwsKzadKcNr23QzSbJ2maJtnCWK7WG34iebLd8huEEArhhGiHKAZEWN6wIOawxQ6xKFQVAEtGUUofe2biyimXLMS1WwYdFl5ZmHJpoDGv6rpK0YdUCDCkFVhC4FUA0bE6xQC17cbSm6YfnvaNsBbBLibPA86X9tre7qVLHhhRps7NL67ZXed9xJTkcerwzcbAVOT/bHzL49Txn41vezLf/ZM8Th30AMtMtuawhqCOAAAAAElFTkSuQmCC"/>
+		<image width="44" height="8" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAICAMAAAC1Z+0TAAAAAXNSR0IB2cksfwAAAFdQTFRFAAAA6enp8vLy9PT08/Pz8PDw7Ozs7e3t5+fn4+Pj5ubm/////v7++Pj48fHx/f39+/v7+vr6wMDA+fn5/Pz8AAAA////9fX16Ojo6+vr7u7un5+f9/f3D/Y6nAAAAB10Uk5TgP//////////////////////////ABT///////8pS59qAAAAiUlEQVR4nI2Qyw7CMAwEDUnLw5tuSlwSCv//nRhaJI6ZiyVrbGlX5HAMMcYwjM7pfLnqB6QwTbrDnPMMDSI3FjgEFDsKlkQffqQwmhlJxSAFSx93VdHaKS8K0dYtUx5jrwyVhJVWUm2tRm4hjSB/aUFPSH4LEHnWV8k0X6+e3jX782xrRG3O/vgNZJIW0bxBaIIAAAAASUVORK5CYII="/>
+		<image width="44" height="8" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAICAMAAAC1Z+0TAAAAAXNSR0IB2cksfwAAAFdQTFRFAAAA6enp8vLy9PT08/Pz8PDw7Ozs7e3t5+fn4+Pj5ubm/////v7++Pj48fHx/f39+/v7+vr6wMDA+fn5/Pz8AAAA////9fX16Ojo6+vr7u7un5+f9/f3D/Y6nAAAAB10Uk5TgP//////////////////////////ABT///////8pS59qAAAAiUlEQVR4nI2Qyw7CMAwEDUnLw5tuSlwSCv//nRhaJI6ZiyVrbGlX5HAMMcYwjM7pfLnqB6QwTbrDnPMMDSI3FjgEFDsKlkQffqQwmhlJxSAFSx93VdHaKS8K0dYtUx5jrwyVhJVWUm2tRm4hjSB/aUFPSH4LEHnWV8k0X6+e3jX782xrRG3O/vgNZJIW0bxBaIIAAAAASUVORK5CYII="/>
+		<image width="44" height="8" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAICAMAAAC1Z+0TAAAAAXNSR0IB2cksfwAAAFdQTFRFAAAA6enp8vLy9PT08/Pz8PDw7Ozs7e3t5+fn4+Pj5ubm/////v7++Pj48fHx/f39+/v7+vr6wMDA+fn5/Pz8AAAA////9fX16Ojo6+vr7u7un5+f9/f3D/Y6nAAAAB10Uk5TgP//////////////////////////ABT///////8pS59qAAAAiUlEQVR4nI2Qyw7CMAwEDUnLw5tuSlwSCv//nRhaJI6ZiyVrbGlX5HAMMcYwjM7pfLnqB6QwTbrDnPMMDSI3FjgEFDsKlkQffqQwmhlJxSAFSx93VdHaKS8K0dYtUx5jrwyVhJVWUm2tRm4hjSB/aUFPSH4LEHnWV8k0X6+e3jX782xrRG3O/vgNZJIW0bxBaIIAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+	<use id="Layer 1" href="#img2" x="0" y="12" />
+	<use id="Layer 2" href="#img3" x="0" y="24" />
+	<use id="Layer 3" href="#img4" x="0" y="36" />
+</svg>

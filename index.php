@@ -23,6 +23,7 @@ Découvrez Bob-e sous toutes ces facettes avec les différentes fonctionnalités
 	<div class="container text-center">
 		<br> <br>
 		
+		<h2 class="text-center"><strong>Notre Equipe</strong> </h2><hr>
 
 		<br>
 		<div class="row text-justify">
@@ -37,7 +38,7 @@ Découvrez Bob-e sous toutes ces facettes avec les différentes fonctionnalités
 						height="200px" 
 						width="200px" 
 									/></br>
-						<p class= "text-center">Tiffany DA CRUZ PINTO - ING-1 Web média</p>
+						<p class= "text-center"><b>Tiffany DA CRUZ PINTO - ING1 Web média</b></p>
 						<p class= "text-center">Blender & Documents </p>
 						<hr>
 					</div>
@@ -49,7 +50,7 @@ Découvrez Bob-e sous toutes ces facettes avec les différentes fonctionnalités
 						height="200px" 
 						width="200px" 
 									/></br>
-						<p class="text-center">Benjamin BUGARIN - ING-1 Info.</p>
+						<p class="text-center"><b>Benjamin BUGARIN - ING1 Info.</b></p>
 						<p>Dev. Front</p>
 						<hr>
 					</div>
@@ -61,7 +62,7 @@ Découvrez Bob-e sous toutes ces facettes avec les différentes fonctionnalités
 						height="200px" 
 						width="200px" 
 									/></br>
-						<p class="text-center">Lucie Voary RABEZAHANARY ING-2 Web média</p>
+						<p class="text-center"><b>Lucie VOARY ING2 Web média</b></p>
 						<p>Blender</p>
 						<hr>
 					</div>
@@ -74,7 +75,7 @@ Découvrez Bob-e sous toutes ces facettes avec les différentes fonctionnalités
 						height="200px" 
 						width="200px" 
 									/></br>
-						<p class= "text-center">Alexandre BENTZ - ING-2 Info.</p>
+						<p class= "text-center"><b>Alexandre BENTZ - ING2 Info.</b></p>
 						<p>Blender & Documents</p>
 					</div>	
 					<div class="col-4 text-center">
@@ -85,7 +86,7 @@ Découvrez Bob-e sous toutes ces facettes avec les différentes fonctionnalités
 						height="200px" 
 						width="200px" 
 									/></br>
-						<p class="text-center">Renaud LEFEVRE - ING-2 Info.</p>
+						<p class="text-center"><b>Renaud LEFEVRE - ING2 Info.</b></p>
 						<p>Dev. Back</p>
 
 					</div>
@@ -97,8 +98,8 @@ Découvrez Bob-e sous toutes ces facettes avec les différentes fonctionnalités
 						height="200px" 
 						width="200px" 
 									/></br>
-						<p class="text-center">David LE - ING-2 Info.</p>
-						<p class= "text-center">Blender </p>
+						<p class="text-center"><b>David LE - ING2 Info.</b></p>
+						<p class= "text-center">Pro-Blender </p>
 
 					</div>
 
@@ -108,44 +109,45 @@ Découvrez Bob-e sous toutes ces facettes avec les différentes fonctionnalités
 	<div class="jumbotron top-space w-100">
 		<div class="container w-100 text-center">
 			<div id="creeCV">
-				<h2 class="text-center"><strong>Preview de notre mascotte en 2D</strong> </h2><hr>
+				<h2 class="text-center"><strong>Aperçus de notre mascotte</strong> </h2><hr>
 				</div>
 				<br>
 					<H6 class="row text-center">
-				Notre mascotte Bob est née au sein de l’Institut G4, dans le cadre du cercle de projets. Au fil des épreuves, nous avons conçu pour vous la mascotte idéale pour notre école !
+						Notre mascotte Bob-e est née au sein de l’Institut G4, par des élèves de l’Institut G4 et pour l’Institut G4 !. Au fil des épreuves, nous avons conçu pour vous la mascotte idéale pour notre école !
 					</h6></br></br>
 					
 				
 				<div class="row text-justify">
-					<div class="col-3"> <a> </a>
+					<div class="col-1"> <a> </a>
 					</div>
-					<h6 class="col-9 align-right" ><strong>Technologie & Innovation</strong></h6>
+					<h6 class="col-6" ><strong>Bob-e en cours</strong></h6>
 
 				</div>
 				
 				<div class="row text-justify">
-					<div class="col-3 align-left">
-						<a> Image </a>
+					<div class="col-5 align-left">
+						<img class="img2" height="500px" 
+						width="500px"src="site_vitrine\assets\images\work.png"/>
 					</div>
-					<div class="col-9 align-right">
-							<a> Cette mascotte, Bob, récemment créée fait preuve d’innovation, elle est entièrement conçu du début à la fin sur le logiciel Blender, qui est un logiciel de création 3D et 2D. Notre mascotte est programmé et fait preuve d’une technique infaillible, puisqu’en  dehors de représenter notre établissement, elle est accessible  à l’ensemble des utilisateurs, ils peuvent, s’il le souhaite, interagir avec elle, Bob est totalement programmée !
+					<div class="col-6 align-self-center">
+							<a> Comme un élève de G4, nous avons modélisé Bob-e entre de suivre son cours de méthodes agiles. Malgré sa petite taille, il s’installe sur la table et utilise sa meilleure définition pour voir le tableau à travers les élèves !
 							 </a></br></br>
 					
 					</div>
 				</div>
 				<div class="row text-justify">
-					<h6 class="col-3 align-left" ><strong>Autonomie & Entrepreneuriat</strong></h6>
+					<h6 class="col-3 align-left offset-9" ><strong>Bob en pause café</strong></h6>
 				</div>
 					<div class="row text-justify">
 					
-					<div class="col-9 align-left">
-					<a> La création de cette mascotte a demandé énormément d’autonomie, mais également du travail de groupe. Sa programmation et sa réalisation on dû prendre du temps, nous avons dû réaliser plusieurs testent et avoir une véritable coordination d’équipe, afin que le résultat puisse être concluant.
-
+					<div class="col-6 align-self-center">
+					<a> Avec ses amis, Bob a lui aussi le droit de prendre une bonne pause pour reprendre des forces ! Un petit café ne fait jamais de mal pour se réveiller le matin, même pour un robot.
 							 </a>
 					</div>
 
-					<div class="col-3 align-right">
-						<a> Image </a>
+					<div class="col-6 align-right">
+						<img class="img2" height="500px" 
+						width="500px"src="site_vitrine\assets\images\pause.png"/>
 					</div>
 
 					

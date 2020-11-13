@@ -31,7 +31,8 @@ A savoir que notre site internet n’est pas là par hasard ! Il nous permet, à
 						href="https://trello.com/b/NOAjCLD4/organisation "
     					alt="Trello"
 						height="150px" 
-						width="150px" 
+						width="150px"
+						target="_blank" 
 									/></a>
 					</div>
 					<div class="col-4 text-center">
@@ -39,7 +40,8 @@ A savoir que notre site internet n’est pas là par hasard ! Il nous permet, à
     					src="site_vitrine/assets\images\blender.png" href=""
     					alt="Blender"
 						height="150px" 
-						width="150px" 
+						width="150px"
+						target="_blank" 
 									/></br></a>
 					
 					</div>
@@ -48,7 +50,8 @@ A savoir que notre site internet n’est pas là par hasard ! Il nous permet, à
     					src="site_vitrine/assets\images\discord.png" 
     					alt="Discord"
 						height="150px" 
-						width="150px" 
+						width="150px"
+						target="_blank" 
 									/></a>
 					</div>
 										
@@ -59,11 +62,12 @@ A savoir que notre site internet n’est pas là par hasard ! Il nous permet, à
 
 					<div class="col-4 text-center">
 					
-					<a href=" https://www.blender.org/"><img
+					<a href=" https://drive.google.com/drive/folders/1-QLEz3wa2-R-wwTfQ3EEpRW5juP5-4un?usp=sharing"><img
     					src="site_vitrine/assets\images\drive.png" 
     					alt="Drive"
 						height="150px" 
-						width="150px" 
+						width="150px"
+						target="_blank" 
 									/></a>
 					</div>
 					<div class="col-4 text-center">
@@ -71,16 +75,18 @@ A savoir que notre site internet n’est pas là par hasard ! Il nous permet, à
     					src="site_vitrine/assets\images\unity.png" href=""
     					alt="Unity"
 						height="150px" 
-						width="150px" 
+						width="150px"
+						target="_blank" 
 									/></a>
 					
 					</div>
 					<div class="col-4 text-center">
-					<a href=" https://www.blender.org/"><img
+					<a href=" https://github.com/bentzalexandre/Projetmascotte"><img
     					src="site_vitrine/assets\images\github.png" 
     					alt="github"
 						height="150px" 
-						width="150px" 
+						width="150px"
+						target="_blank" 
 									/></a>
 					</div>
 										
@@ -99,7 +105,7 @@ A savoir que notre site internet n’est pas là par hasard ! Il nous permet, à
 <div class="row text-justify">
 					<div class="col-1 align-left">
 					<img src="https://img.icons8.com/bubbles/100/000000/light-on.png"/>					</div>
-					<div class="col-11 align-right">
+					<div class="col-11">
 							<a><strong> Etape 1 : idéation</strong>
 							 </a></br></br>
 					
@@ -157,19 +163,7 @@ Pour nous organiser, un tableau Kanban sur Trello à été mis en place afin de 
 </div>
 
 <div class=" top-space w-100">
-		<div class="container text-center">
-			<div id="creeCV">
-				<h2 class="text-center"> Présentation de la mascotte</h2><hr>
-			</div>
-				<br>
-				<div class="row text-center">
-				Tout d’abord, cette dernière représente notre institut. 
-Etant dans une école d’informatique et du management chaque détail et un rappel à ce que nous étudions. 
-Mais notre mascotte n’est pas seulement une représentation, c’est avant tout un outil accessible pour chaque étudiant de notre établissement. 
-D’autre part, elle a été confectionné sur le logiciel Blender du début à la fin, détail par détail. Le travail fourni a demandé du temps, de la réflexion personnelle et de groupe. C’est un travail consciencieux que nous vous présentons.
-				</div>
-				<br>
-		</div>
+		
 </div>
 
 

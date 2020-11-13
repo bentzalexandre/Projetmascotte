@@ -49,7 +49,7 @@
 
 }
 .positiontxtheader{
-	padding-top:17%;
+	padding-top:2%;
 }
 body {
 	width:100%;
@@ -84,8 +84,6 @@ body {
 
 
 #head2 { min-height:220px; padding-top:50px; }
-
-
 
 /* Autohide navbar */
 .navbargen {

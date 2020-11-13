@@ -13,21 +13,19 @@
     </div>
 </div>
 <div class="container text-center">
-		<br> <br>
-		<h2 class="text-center">Découvrir notre mascotte en réalité augmentée</h2>
+		<h2 class="text-center">Découvrir notre mascotte en réalité augmentée</h2><hr/>
 		<br>
-		<p class="">
-        Afin de vous partager notre mascotte sous un autre angle, nous avons créé un QR code qui vous permet de la voir grâce à la réalité augmentée. 
-Armez vous de votre téléphone et faites sortir Bob de votre écran en scannant le code ci-dessous !
+		<p class="center-align">
+        Découvrez notre mascotte sous un autre angle, nous avons créé un QR code qui vous permet de voir Bob-e grâce à la réalité augmentée. 
+        </p>
+        <p class="center-align">
+        Armez vous de votre téléphone et faites sortir Bob de votre écran en scannant le code ci-dessous !
+        </p>
+        <br/><br/>
 
-</p>
-
-
-<img
-    src="site_vitrine/assets/images/qrcodeinc.png" 
-    alt="QR CODE"
-   
-/>	</div>
+<img src="site_vitrine/assets/images/qrcodeinc.png" 
+    alt="QR CODE"/>	
+</div>
 
 
 
